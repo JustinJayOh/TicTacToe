@@ -1,4 +1,13 @@
-﻿using System;
+/**
+* @author Justin Oh
+* @email jjoh1993@gmail.com
+* @version 2/17/2019
+*
+* Class to drive MainForm. 
+* Provides functionality for all Buttons and Label on Form.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
