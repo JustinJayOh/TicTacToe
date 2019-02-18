@@ -41,7 +41,9 @@ namespace MainForm
         {
             gameInfoLabel.Text = "New game started";
             ClearMap();
+            turn = 0;
         }
+       
 
         /** 
          * Clears Map of game pieces
