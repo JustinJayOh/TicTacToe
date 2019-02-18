@@ -1,0 +1,10 @@
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\obj\Debug\MainForm.MainForm.resources
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\bin\Debug\MainForm.exe
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\bin\Debug\MainForm.pdb
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\obj\Debug\MainForm.exe
+C:\Users\jjoh1\source\repos\TicTacToe\MainForm\obj\Debug\MainForm.pdb
