@@ -1,4 +1,13 @@
-﻿using System;
+/**
+* @author Justin Oh
+* @email jjoh1993@gmail.com
+* @version 2/17/2019
+*
+* Defines a player object with game pieces as a field. 
+* Provides methods to set a piece, check for a win, and clear pieces from grid.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
